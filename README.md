@@ -1,4 +1,6 @@
-# user_management_system
+# 用户管理系统
+
+# 基于 json-server 服务器，需先安装json-server服务器，再 npm run json:server 运行后台服务器，才能进行增删改查数据
 
 ## Project setup
 ```
@@ -26,4 +28,3 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
